@@ -61,7 +61,7 @@ namespace nvgraph
     return  counts;
   }
 
-  //Adapted from: https://github.com/thrust/thrust/blob/master/examples/expand.cu
+  //Adapted from: https://github.com/thrust/thrust/blob/main/examples/expand.cu
   //
   //Note:
   //C++03 doesn’t allow default template arguments on function templates. 

@@ -3,9 +3,9 @@
 # ****************** Edit this *************************
 #*******************************************************
 #Path to graphMat binary data
-gm_data_prefix="/home-2/afender/GraphMat-master/data"
+gm_data_prefix="/home-2/afender/GraphMat-main/data"
 #Path to graphMat binary 
-gm_bin_prefix="/home-2/afender/GraphMat-master/bin"
+gm_bin_prefix="/home-2/afender/GraphMat-main/bin"
 #Number of core to use in graphMat
 export OMP_NUM_THREADS=24
 # ******************************************************
